@@ -1,6 +1,6 @@
 # hello-world
 Hello world tutorial repository.
 
-Name: Soo Hyung Ahn  
+Name: Jack  
 Enrolled institution: University of Cape Town  
-Degree: MSc Data Science specializing in finance
+Degree: MSc XXX XXXX
